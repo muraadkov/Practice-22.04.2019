@@ -1,0 +1,16 @@
+c:\users\адылкановм.corp\source\repos\Practice22.04.2019\Practice22.04.2019\bin\Debug\Practice22.04.2019.exe.config
+c:\users\адылкановм.corp\source\repos\Practice22.04.2019\Practice22.04.2019\bin\Debug\Practice22.04.2019.exe
+c:\users\адылкановм.corp\source\repos\Practice22.04.2019\Practice22.04.2019\bin\Debug\Practice22.04.2019.pdb
+c:\users\адылкановм.corp\source\repos\Practice22.04.2019\Practice22.04.2019\bin\Debug\EntityFramework.dll
+c:\users\адылкановм.corp\source\repos\Practice22.04.2019\Practice22.04.2019\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\адылкановм.corp\source\repos\Practice22.04.2019\Practice22.04.2019\bin\Debug\EntityFramework.xml
+c:\users\адылкановм.corp\source\repos\Practice22.04.2019\Practice22.04.2019\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\адылкановм.corp\source\repos\Practice22.04.2019\Practice22.04.2019\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\адылкановм.corp\source\repos\Practice22.04.2019\Practice22.04.2019\obj\Debug\Practice22.04.2019.csprojAssemblyReference.cache
+c:\users\адылкановм.corp\source\repos\Practice22.04.2019\Practice22.04.2019\obj\Debug\Practice22.04.2019.csproj.CoreCompileInputs.cache
+c:\users\адылкановм.corp\source\repos\Practice22.04.2019\Practice22.04.2019\obj\Debug\Practice22.04.2019.csproj.CopyComplete
+c:\users\адылкановм.corp\source\repos\Practice22.04.2019\Practice22.04.2019\obj\Debug\Practice22.04.2019.exe
+c:\users\адылкановм.corp\source\repos\Practice22.04.2019\Practice22.04.2019\obj\Debug\Practice22.04.2019.pdb
+c:\users\адылкановм.corp\source\repos\Practice22.04.2019\Practice22.04.2019\obj\Debug\Practice22._04._2019.Migrations.InitMband.resources
+c:\users\адылкановм.corp\source\repos\Practice22.04.2019\Practice22.04.2019\obj\Debug\Practice22.04.2019.csproj.GenerateResource.cache
+c:\users\адылкановм.corp\source\repos\Practice22.04.2019\Practice22.04.2019\obj\Debug\Practice22._04._2019.Migrations.InitMband1.resources
